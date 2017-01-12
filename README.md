@@ -16,7 +16,11 @@ with pre-defined elements. These can be several different items in the tree. The
 pick up items which will go down the tree, until you reach a ‘door’ on the lowest level of the
 tree. On the lowest level there are only four (4) doors which the player can reach by picking up
 items. If you get to a door you win and if not, you do not win. The tree is as follows:
+![Alt text](/img/tree.png?raw=true "screenshot")
 
-
-
+#Architecture
+![Alt text](/img/arch.png?raw=true "screenshot")
 #Screens
+![Alt text](/img/screen0.png?raw=true "screenshot")
+![Alt text](/img/screen1.png?raw=true "screenshot")
+![Alt text](/img/screen2.png?raw=true "screenshot")
